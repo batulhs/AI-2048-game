@@ -69,5 +69,6 @@ This helps the AI survive longer and reach higher tiles.
    git clone https://github.com/batulhs/AI-2048-Game.git
    cd AI-2048-Game
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
