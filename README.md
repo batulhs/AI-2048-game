@@ -39,6 +39,14 @@ This helps the AI survive longer and reach higher tiles.
 
 ---
 
+## 🛠 Tech Stack
+- **Python 3**
+- [Pygame](https://www.pygame.org/) → Game window, graphics, and input handling
+- [NumPy](https://numpy.org/) → Grid and array operations
+- Standard Python libraries (`random`, `time`, `sys`, `math`)
+
+---
+
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
