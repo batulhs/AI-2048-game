@@ -28,5 +28,5 @@ This helps the AI survive longer and reach higher tiles.
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/batulhs/2048-AI-Game.git
-   cd 2048-AI-Game
+   git clone https://github.com/batulhs/AI-2048-Game.git
+   cd AI-2048-Game
