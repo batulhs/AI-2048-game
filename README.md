@@ -18,7 +18,6 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 - Classic 2048 gameplay with smooth animations.
 - Manual play using arrow keys.
-- Tile merging: Combine tiles with the same number to double their value.
 - Score tracking: Each merge adds points to your score.
 - Game over detection: The game ends when no moves are possible.
 - 4x4 grid layout with visually distinct tiles.
@@ -69,3 +68,6 @@ This helps the AI survive longer and reach higher tiles.
    ```bash
    git clone https://github.com/batulhs/AI-2048-Game.git
    cd AI-2048-Game
+2. Install dependencies:
+   pip install -r requirements.txt
+
