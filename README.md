@@ -16,15 +16,15 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 ##✨ **Features**
 
--Classic 2048 gameplay with smooth animations.
--Manual play using arrow keys.
--Tile merging: Combine tiles with the same number to double their value.
--Score tracking: Each merge adds points to your score.
--Game over detection: The game ends when no moves are possible.
--4x4 grid layout with visually distinct tiles.
--Randomized tile generation (2 or 4) for replayability.
--Smooth keyboard input for responsive gameplay.
--Optional AI mode that can play automatically.
+- Classic 2048 gameplay with smooth animations.
+- Manual play using arrow keys.
+- Tile merging: Combine tiles with the same number to double their value.
+- Score tracking: Each merge adds points to your score.
+- Game over detection: The game ends when no moves are possible.
+- 4x4 grid layout with visually distinct tiles.
+- Randomized tile generation (2 or 4) for replayability.
+- Smooth keyboard input for responsive gameplay.
+- Optional AI mode that can play automatically.
 
 ---
 
