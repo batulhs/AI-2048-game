@@ -5,7 +5,7 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Demo
 <p align="center">
   <img src="demo/gameplay.gif" alt="Gameplay Demo" width="400"/>
 </p>
@@ -14,7 +14,7 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 ---
 
-## ✨ **Features**
+## ✨ Features
 
 - Classic 2048 gameplay with smooth animations.
 - Manual play using arrow keys.
@@ -44,6 +44,23 @@ This helps the AI survive longer and reach higher tiles.
 - [Pygame](https://www.pygame.org/) → Game window, graphics, and input handling
 - [NumPy](https://numpy.org/) → Grid and array operations
 - Standard Python libraries (`random`, `time`, `sys`, `math`)
+  
+  ---
+
+## 🎮 Controls / Usage
+- Arrow Keys → Move tiles (Up, Down, Left, Right)
+- A → Toggle AI Mode on/off
+- Close Window → Exit game
+
+---
+
+## 🔮 Future Improvements
+- Add undo / redo functionality.
+- Include score tracking and leaderboard.
+- Implement different AI strategies (Minimax, Expectimax).
+- Add sound effects and animations.
+- Display game over and save the final board.
+- Make a web version playable in a browser.
 
 ---
 
