@@ -14,7 +14,7 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 ---
 
-##✨ **Features**
+## ✨ **Features**
 
 - Classic 2048 gameplay with smooth animations.
 - Manual play using arrow keys.
