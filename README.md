@@ -75,4 +75,4 @@ This helps the AI survive longer and reach higher tiles.
 ---
 
 ## 🤝 Contributions
-This project was independently developed in its entirety, including the game mechanics, AI logic, feature implementation, and documentation.
+This project was independently developed in its entirety by Batul H Suratwala, including the game mechanics, AI logic, feature implementation, and documentation.
