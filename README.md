@@ -18,12 +18,12 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 - Classic 2048 gameplay with smooth animations.
 - Manual play using arrow keys.
-- Score tracking: Each merge adds points to your score.
 - Game over detection: The game ends when no moves are possible.
 - 4x4 grid layout with visually distinct tiles.
 - Randomized tile generation (2 or 4) for replayability.
 - Smooth keyboard input for responsive gameplay.
 - Optional AI mode that can play automatically.
+- Assigns heuristics/scores to decide the best move.
 
 ---
 
@@ -72,3 +72,7 @@ This helps the AI survive longer and reach higher tiles.
    ```bash
    pip install -r requirements.txt
 
+---
+
+## 🤝 Contributions
+This project was independently developed in its entirety, including the game mechanics, AI logic, feature implementation, and documentation.
