@@ -7,7 +7,7 @@ You can play manually using the arrow keys, or toggle an **AI mode** that plays 
 
 ## 📸 Demo
 <p align="center">
-  <img src="demo/gameplay.gif" alt="Gameplay Demo" width="400"/>
+  <img src="demo/gameplay.gif" alt="Gameplay Demo" width="500"/>
 </p>
 
 
